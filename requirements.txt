@@ -1,3 +1,8 @@
 pandas
 torch
 tensorflow
+tqdm
+allennlp
+tokenize_uk
+mypy
+spacy
